@@ -2,7 +2,6 @@
 areaSize = int(input("Enter the size of the area:"))
 nLiters = (areaSize/3)
 nCansFloat = (nLiters/18)
-nCansInt = 0
 if (nCansFloat % 2) != 0:
     nCansInt = int(nCansFloat)+1
 price = (nCansInt*80)
