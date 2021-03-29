@@ -1,3 +1,4 @@
+#by: Rapha_Cassari
 number = int(input("Enter an integer:"))
 pairNumbers = []
 for n in range(number+1):
